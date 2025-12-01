@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/rewards-app/static/js/main.cf91e0fc.js",
+    "index.html": "/rewards-app/index.html",
+    "main.cf91e0fc.js.map": "/rewards-app/static/js/main.cf91e0fc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cf91e0fc.js"
+  ]
+}
